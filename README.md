@@ -1,5 +1,5 @@
 # ITM-University-Gwalior.-Question-Bank-Unofficial
-:mortar_board: :key:
+# :mortar_board: :key:
 ### This repository is created to help students during there exams 
 This repository is *not the official repository of ITM University*, Gwalior.
 ====
