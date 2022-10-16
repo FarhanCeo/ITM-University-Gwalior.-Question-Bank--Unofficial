@@ -2,6 +2,7 @@
 # :mortar_board: :key:
 Hey, friends, My name is Farhan Ahmed. I created this repository to help students of ITM University, Gwalior in preparing for their exams and in their studies. Hope this will help students and that you also contribute in this to helping others and make this a great success.
 ### This repository is created to help students during there exams 
+### You can use *Discussions* for asking questions and give feedback or suggestions.
 This repository is *not the official repository of ITM University*, Gwalior.
 ====
 You can download various semesters question papers according to your need.
